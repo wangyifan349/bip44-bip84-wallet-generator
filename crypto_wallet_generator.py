@@ -1,3 +1,4 @@
+"""pip install mnemonic bip32utils bech32"""
 import os
 import hashlib
 import base58
